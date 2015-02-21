@@ -1,6 +1,9 @@
 Optimizations Made for the Class Project
+
+
 1. The Index.html file was minfied
-2. All CSS files are minfied
+2. All CSS files are minified
+4. JavaScrpt is minified
 3. <async> was added to the Google Analytics script to allow the page to render faster
 
 
