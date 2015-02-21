@@ -5,6 +5,7 @@ Optimizations Made for the Class Project
 2. All CSS files are minified
 4. JavaScrpt is minified
 3. <async> was added to the Google Analytics script to allow the page to render faster
+4. A cache manifest file was added along with cache HTML code
 
 
 ### Website Performance Optimization portfolio project
