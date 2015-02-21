@@ -1,4 +1,8 @@
-## Website Performance Optimization portfolio project
+Optimizations Made for the Class Project
+1. <async> was added to the Google Analytics script to allow the page to render faster
+
+
+### Website Performance Optimization portfolio project
 
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
 
