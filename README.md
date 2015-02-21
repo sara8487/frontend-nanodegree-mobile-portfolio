@@ -1,5 +1,7 @@
 Optimizations Made for the Class Project
-1. <async> was added to the Google Analytics script to allow the page to render faster
+1. The Index.html file was minfied
+2. All CSS files are minfied
+3. <async> was added to the Google Analytics script to allow the page to render faster
 
 
 ### Website Performance Optimization portfolio project
